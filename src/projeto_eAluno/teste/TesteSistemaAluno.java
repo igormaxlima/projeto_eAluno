@@ -8,5 +8,7 @@ public class TesteSistemaAluno {
 		
         Aluno aluno = new Aluno();
 		aluno.CadastroNovoAluno();
+		
+		Aluno aluno2 = new Aluno();
 	}
 }
