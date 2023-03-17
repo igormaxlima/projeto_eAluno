@@ -8,7 +8,6 @@ public class TesteSistemaAluno {
 		
         Aluno aluno = new Aluno();
 		aluno.CadastroNovoAluno();
-		System.out.println();
 		
 	}
 }
