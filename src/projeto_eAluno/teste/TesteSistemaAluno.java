@@ -10,5 +10,6 @@ public class TesteSistemaAluno {
 		aluno.CadastroNovoAluno();
 		
 		Aluno aluno2 = new Aluno();
+		aluno2.CadastroNovoAluno();
 	}
 }
